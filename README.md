@@ -1,4 +1,4 @@
-!(image)[https://i.postimg.cc/Yq3Qh3y8/logo.png]
+!(img)[https://i.postimg.cc/Yq3Qh3y8/logo.png]
 
 
 
