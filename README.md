@@ -1,5 +1,4 @@
-!(img)[https://i.postimg.cc/Yq3Qh3y8/logo.png]
-
+![image](https://i.postimg.cc/Yq3Qh3y8/logo.png)
 
 
 
