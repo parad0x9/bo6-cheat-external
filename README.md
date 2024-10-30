@@ -1,2 +1,17 @@
-# bo6-cheat-external
-simple external black ops 6 cheat
+Black Ops 6 External Cheat
+Welcome to the Black Ops 6 External Cheat repository! This project aims to provide a powerful, easy-to-use external cheat for Black Ops 6, enhancing your gameplay experience.
+
+Features
+Triggerbot: A triggerbot is a cheat tool that automatically fires your weapon when the crosshair is aimed at an opponent. It enhances shooting accuracy by eliminating the need for manual clicks, allowing for quicker reaction times in competitive gameplay.
+
+ESP (Extra Sensory Perception): See player locations and vital information through walls.
+No Recoil: Eliminate weapon recoil for consistent shooting.
+
+Installation
+
+You can download it in the releases
+
+Disclaimer
+This project is intended for educational purposes only. Use at your own risk. Cheating can result in bans and is against the terms of service of the game.
+
+Happy gaming! 🚀
