@@ -18,6 +18,7 @@
 
 ### Preview
 ![image](https://i.postimg.cc/6pX50fWP/Screenshot-2024-10-30-235121.png)
+![image](https://i.postimg.cc/0y35sBQ6/image.png)
 
 #### Disclaimer
 - This project is intended for educational purposes only. Use at your own risk. Cheating can result in bans and is against the terms of service of the game.
