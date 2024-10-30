@@ -1,5 +1,4 @@
 Black Ops 6 External Cheat
-Welcome to the Black Ops 6 External Cheat repository! This project aims to provide a powerful, easy-to-use external cheat for Black Ops 6, enhancing your gameplay experience.
 
 Features
 Triggerbot: A triggerbot is a cheat tool that automatically fires your weapon when the crosshair is aimed at an opponent. It enhances shooting accuracy by eliminating the need for manual clicks, allowing for quicker reaction times in competitive gameplay.
