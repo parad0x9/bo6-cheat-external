@@ -13,11 +13,10 @@
 #### No Recoil:
 - Eliminate weapon recoil for consistent shooting.
 
-Installation
+#### Installation
+- You can download it in the releases: https://github.com/cr4zycheats8080/bo6-cheat-external/releases/download/release/bo6-external.zip
 
-You can download it in the releases: https://github.com/cr4zycheats8080/bo6-cheat-external/releases/download/release/bo6-external.zip
+#### Disclaimer
+- This project is intended for educational purposes only. Use at your own risk. Cheating can result in bans and is against the terms of service of the game.
 
-Disclaimer
-This project is intended for educational purposes only. Use at your own risk. Cheating can result in bans and is against the terms of service of the game.
-
-Happy gaming! 🚀
+#### Happy gaming! 🚀
